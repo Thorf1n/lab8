@@ -1,0 +1,14 @@
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\bin\Debug\net6.0\ImportSystem.exe
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\bin\Debug\net6.0\ImportSystem.deps.json
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\bin\Debug\net6.0\ImportSystem.runtimeconfig.json
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\bin\Debug\net6.0\ImportSystem.dll
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\bin\Debug\net6.0\ImportSystem.pdb
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\obj\Debug\net6.0\ImportSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\obj\Debug\net6.0\ImportSystem.AssemblyInfoInputs.cache
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\obj\Debug\net6.0\ImportSystem.AssemblyInfo.cs
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\obj\Debug\net6.0\ImportSystem.csproj.CoreCompileInputs.cache
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\obj\Debug\net6.0\ImportSystem.dll
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\obj\Debug\net6.0\refint\ImportSystem.dll
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\obj\Debug\net6.0\ImportSystem.pdb
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\obj\Debug\net6.0\ImportSystem.genruntimeconfig.cache
+C:\Users\Thorfin\source\repos\lab8\ImportSystem\obj\Debug\net6.0\ref\ImportSystem.dll

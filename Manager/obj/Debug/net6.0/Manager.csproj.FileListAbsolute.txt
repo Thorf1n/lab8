@@ -1,0 +1,14 @@
+C:\Users\Thorfin\source\repos\lab8\lab8\bin\Debug\net6.0\Manager.exe
+C:\Users\Thorfin\source\repos\lab8\lab8\bin\Debug\net6.0\Manager.deps.json
+C:\Users\Thorfin\source\repos\lab8\lab8\bin\Debug\net6.0\Manager.runtimeconfig.json
+C:\Users\Thorfin\source\repos\lab8\lab8\bin\Debug\net6.0\Manager.dll
+C:\Users\Thorfin\source\repos\lab8\lab8\bin\Debug\net6.0\Manager.pdb
+C:\Users\Thorfin\source\repos\lab8\lab8\obj\Debug\net6.0\Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thorfin\source\repos\lab8\lab8\obj\Debug\net6.0\Manager.AssemblyInfoInputs.cache
+C:\Users\Thorfin\source\repos\lab8\lab8\obj\Debug\net6.0\Manager.AssemblyInfo.cs
+C:\Users\Thorfin\source\repos\lab8\lab8\obj\Debug\net6.0\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Thorfin\source\repos\lab8\lab8\obj\Debug\net6.0\Manager.dll
+C:\Users\Thorfin\source\repos\lab8\lab8\obj\Debug\net6.0\refint\Manager.dll
+C:\Users\Thorfin\source\repos\lab8\lab8\obj\Debug\net6.0\Manager.pdb
+C:\Users\Thorfin\source\repos\lab8\lab8\obj\Debug\net6.0\Manager.genruntimeconfig.cache
+C:\Users\Thorfin\source\repos\lab8\lab8\obj\Debug\net6.0\ref\Manager.dll

@@ -1,0 +1,14 @@
+C:\Users\Thorfin\source\repos\lab8\Factory\bin\Debug\net6.0\Factory.exe
+C:\Users\Thorfin\source\repos\lab8\Factory\bin\Debug\net6.0\Factory.deps.json
+C:\Users\Thorfin\source\repos\lab8\Factory\bin\Debug\net6.0\Factory.runtimeconfig.json
+C:\Users\Thorfin\source\repos\lab8\Factory\bin\Debug\net6.0\Factory.dll
+C:\Users\Thorfin\source\repos\lab8\Factory\bin\Debug\net6.0\Factory.pdb
+C:\Users\Thorfin\source\repos\lab8\Factory\obj\Debug\net6.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thorfin\source\repos\lab8\Factory\obj\Debug\net6.0\Factory.AssemblyInfoInputs.cache
+C:\Users\Thorfin\source\repos\lab8\Factory\obj\Debug\net6.0\Factory.AssemblyInfo.cs
+C:\Users\Thorfin\source\repos\lab8\Factory\obj\Debug\net6.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Thorfin\source\repos\lab8\Factory\obj\Debug\net6.0\Factory.dll
+C:\Users\Thorfin\source\repos\lab8\Factory\obj\Debug\net6.0\refint\Factory.dll
+C:\Users\Thorfin\source\repos\lab8\Factory\obj\Debug\net6.0\Factory.pdb
+C:\Users\Thorfin\source\repos\lab8\Factory\obj\Debug\net6.0\Factory.genruntimeconfig.cache
+C:\Users\Thorfin\source\repos\lab8\Factory\obj\Debug\net6.0\ref\Factory.dll
